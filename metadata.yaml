@@ -1,0 +1,28 @@
+_repo: Cognac-idillek_42071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kóbor, Tamás
+    alias: Kobor, Tamas
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '41508'
+    url: http://www.gutenberg.org/2009/agents/41508
+description: ''
+gutenberg_issued: '2013-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42071'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction'
+- !lcsh 'Short stories'
+title: 'Cognac-idillek: novellák'
+url: http://www.gutenberg.org/ebooks/42071
